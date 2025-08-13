@@ -3,7 +3,7 @@
 🎓 **Estudante de Engenharia de Software**  
 📚 **Formado em Administração  (Bacharelado)**  
 💻 **Graduado em Análise e Desenvolvimento de Sistemas(ADS)**  
-📕 🗺️💬 **learning english**
+📕 🗺️💬 **Aprendendo Inglês** /
 💡  **Apaixonado por aprender e evoluir constantemente**  
 🚀 **Futuro desenvolvedor, sempre em busca de novos desafios**  
 📖 **Aluno dedicado do Estudonauta (Prof. Guanabara)** 
