@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Walace!  
 
-🎓 **Estudante de Engenharia de Software**  
+🎓 Em constante aprendizado.
 📚 **Formado em Administração  (Bacharelado)**  
 💻 **Graduado em Análise e Desenvolvimento de Sistemas(ADS)**  
 📕 🗺️💬 **Aprendendo Inglês** /
